@@ -25,9 +25,9 @@ To install NollyAPI in your project, add the following Maven dependency in your 
 
 ```xml
 <dependency>
-    <groupId>com.thenolle.api</groupId>
+    <groupId>com.thenolle.plugin</groupId>
     <artifactId>nollyapi</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0@jar</version>
 </dependency>
 ```
 
@@ -35,7 +35,7 @@ To install NollyAPI in your project, add the following Maven dependency in your 
 
 ```gradle
 dependencies {
-    implementation 'com.thenolle.api:nollyapi:1.0.0'
+    implementation 'com.thenolle.plugin:nollyapi:1.0.0@jar'
 }
 ```
 

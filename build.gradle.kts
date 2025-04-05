@@ -135,8 +135,8 @@ publishing {
             name = "nollyapi"
             url = uri("https://nexus.thenolle.com/repository/nollyapi/")
             credentials {
-                username = System.getenv("NEXUS_USERNAME")
-                password = System.getenv("NEXUS_PASSWORD")
+                username = findProperty("nexus.username") as String? ?: System.getenv("NEXUS_USERNAME")
+                password = findProperty("nexus.password") as String? ?: System.getenv("NEXUS_PASSWORD")
             }
         }
     }
