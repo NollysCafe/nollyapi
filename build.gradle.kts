@@ -42,28 +42,32 @@ kotlin {
 }
 
 tasks.dokkaHtml {
-    outputDirectory.set(file("${layout.buildDirectory}/dokka/html"))
+    outputDirectory.set(file("$buildDir/dokka/html"))
 }
 
 task("deployDocs") {
     dependsOn("dokkaHtml")
 
     doLast {
-        val dokkaDir = file("${layout.buildDirectory}/dokka/html")
+        val dokkaDir = file("$buildDir/dokka/html")
         val gitHubPagesBranch = "gh-pages"
         val repoUrl = "git@github.com:nollyscafe/nollyapi.git"
 
         exec {
             commandLine("git", "checkout", gitHubPagesBranch)
+            workingDir = file("$projectDir")
         }
         exec {
             commandLine("git", "add", dokkaDir)
+            workingDir = file("$projectDir")
         }
         exec {
             commandLine("git", "commit", "-m", "Update documentation")
+            workingDir = file("$projectDir")
         }
         exec {
             commandLine("git", "push", repoUrl, gitHubPagesBranch)
+            workingDir = file("$projectDir")
         }
     }
 }
