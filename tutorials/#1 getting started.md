@@ -1,7 +1,18 @@
 # Tutorial:
-## #1 Getting Started [Video Format](./#1%20getting%20started.mp4)
+## #1 Getting Started
 
 Welcome to this tutorial! In this guide, we'll walk through the process of integrating the `NollyAPI` into your plugin using **Kotlin** and **Gradle**.
+
+---
+
+### Watch the Tutorial
+
+<video width="640" height="360" controls>
+  <source src="./#1%20getting%20started.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 
 ### Prerequisites:
 - A basic understanding of **plugin** development.
