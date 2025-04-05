@@ -1,0 +1,16 @@
+github: TheNolle
+patreon: _nolly
+ko-fi: nolly__
+buymeacoffee: nolly.cafe
+paypal: NollyCafe
+custom:
+  - type: "PayPal.me"
+    url: "https://paypal.me/NollyCafe"
+    description: "Support Nolly's open-source work directly via PayPal."
+
+sponsors:
+  message: |
+    Your support allows me to keep improving and maintaining NollyAPI, ensuring it continues to help Minecraft developers everywhere. Contributions help cover the costs of development, hosting, and tools used in the project. Every donation, big or small, makes a difference and is deeply appreciated!
+
+  thank_you: |
+    A huge thank you to everyone supporting this project. Your contributions help me keep NollyAPI up to date, add new features, and ensure it stays the best tool for Minecraft plugin developers.
