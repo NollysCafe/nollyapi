@@ -132,3 +132,16 @@ For more information on how to use the different features of NollyAPI, explore t
 ## Support
 
 If you encounter any issues or need support, feel free to open an issue on the [GitHub repository](https://github.com/nollyscafe/nollyapi/issues). We will do our best to assist you.
+
+---
+
+## Support Me
+
+If you enjoy my work and would like to support the development of **NollyAPI**, you can contribute in several ways:
+
+- **Become a sponsor on GitHub!** [GitHub Sponsors](https://github.com/sponsors/TheNolle)
+- **Support me on Patreon** [Patreon](https://www.patreon.com/_nolly) — Get exclusive content and perks!
+- **Buy me a coffee** [Buy Me A Coffee](https://www.buymeacoffee.com/nolly.cafe) — Your support keeps me caffeinated!
+- **Donate directly via PayPal** [PayPal](https://paypal.me/NollyCafe)
+
+Every bit of support helps me to continue developing and maintaining the project. Thank you so much for your generosity!
