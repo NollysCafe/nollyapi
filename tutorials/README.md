@@ -10,9 +10,13 @@ This repository provides step-by-step tutorials to help you integrate and use th
    - **Learn how to integrate the NollyAPI into your Kotlin-based plugin project.**
    - [View Tutorial](./%231%20getting%20started.md)
 
+https://github.com/user-attachments/assets/728d50ec-7f4a-4797-9704-9cd01c7ffb2c
+
 ### 2. **Event Listeners with NollyAPI**
    - **Learn how to implement and manage event listeners using NollyAPI.**
    - [View Tutorial](./%232%20event%20listeners.md)
+
+https://github.com/user-attachments/assets/6799af45-aa09-47c6-91d7-55eb3fadae95
 
 ### 3. **Commands with NollyAPI**
    - **Register clean commands using the custom API.**
