@@ -12,6 +12,10 @@ This repository provides step-by-step tutorials to help you integrate and use th
 
 ### 2. **Event Listeners with NollyAPI**
    - **Learn how to implement and manage event listeners using NollyAPI.**
+   - [View Tutorial](./%232%20event%20listeners.md)
+
+### 3. **Commands with NollyAPI**
+   - **Register clean commands using the custom API.**
    - [Coming Soon]
 
 ---
