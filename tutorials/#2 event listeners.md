@@ -5,6 +5,12 @@ In this tutorial, you'll learn how to use **NollyAPI**'s minimalist listener sys
 
 ---
 
+### Watch the Tutorial
+
+https://github.com/user-attachments/assets/6799af45-aa09-47c6-91d7-55eb3fadae95
+
+---
+
 ### What You’ll Learn:
 - How to register events using `NollyAPI`
 - How to fix `EventListener.init() not called` errors
