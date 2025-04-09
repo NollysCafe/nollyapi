@@ -1,0 +1,4 @@
+name: NollyAPI
+main: com.thenolle.api.nollyapi.NollyAPI
+version: 0.0.1
+load: STARTUP
